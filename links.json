@@ -1,0 +1,38 @@
+[
+  {
+    "category": "AI工具",
+    "links": [
+      {"title": "ChatGPT", "url": "https://chat.openai.com"},
+      {"title": "Claude", "url": "https://claude.ai"},
+      {"title": "Gemini", "url": "https://gemini.google.com"}
+    ]
+  },
+  {
+    "category": "工作后台",
+    "links": [
+      {"title": "商户后台", "url": "#"},
+      {"title": "SQL 平台", "url": "#"},
+      {"title": "风控系统", "url": "#"}
+    ]
+  },
+  {
+    "category": "查询工具",
+    "links": [
+      {"title": "OCR 工具", "url": "#"},
+      {"title": "翻译工具", "url": "#"},
+      {"title": "汇率查询", "url": "#"}
+    ]
+  },
+  {
+    "category": "金融",
+    "links": [
+      {"title": "Wise", "url": "https://wise.com"},
+      {"title": "Binance", "url": "https://www.binance.com"},
+      {"title": "IBKR", "url": "https://www.interactivebrokers.com"}
+    ]
+  },
+  {
+    "category": "临时",
+    "links": []
+  }
+]
